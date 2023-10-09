@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vdcuTsiq2QRuC45k5gK06v2rRZa+7rfz9WZv6mZjr0nFiB2zfWQM1YbnJvdFd2XirzP5zHU1minzPPKRfrHKgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\BankApp\\BankApp\\Core\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
